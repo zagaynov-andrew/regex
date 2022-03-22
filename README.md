@@ -59,4 +59,4 @@ python3 test_get_ip.py
 python3 test_qualified_id.py 
 ```
 
-:pushpin: Для успешного запуска понадобится установленный python 3
+:pushpin: Для успешного запуска понадобится установленный python 3.
